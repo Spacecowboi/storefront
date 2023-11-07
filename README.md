@@ -1,8 +1,25 @@
-# React + Vite
+# Storefront Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### UML
 
-Currently, two official plugins are available:
+[UML](Shopping UML.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Useage
+
+* npm install
+* npm run dev (not working currently)
+
+### Authors
+
+* Anthony Cunningham
+
+
+### References
+
+* StackOverflow
+* Google
+* Google Bard
+* Jacob Knaack
+
+
+
